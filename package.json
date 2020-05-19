@@ -11,7 +11,7 @@
     "react-scripts": "1.0.12",
     "stripe": "^4.24.1",
     "styled-components": "^2.1.2"
-    "node": "12.16.x"
+    "node": "8.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
